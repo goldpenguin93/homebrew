@@ -18,6 +18,10 @@ $ brew install wget
 
 ```
 
+
+# Homebrew won’t install files outside its prefix and you can place a Homebrew installation wherever you like. #
+
+
 ```
 
 $ cd /usr/local
@@ -30,8 +34,10 @@ $ ls -l bin
 bin/wget -> ../Cellar/wget/1.16.1/bin/wget
 
 ```
-# Homebrew won’t install files outside its prefix and you can place a Homebrew installation wherever you like. #
+
 # Trivially create your own Homebrew packages.#
+
+
 ```
 
 $ brew create https://foo.com/bar-1.0.tgz
