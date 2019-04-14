@@ -35,7 +35,7 @@ bin/wget -> ../Cellar/wget/1.16.1/bin/wget
 
 ```
 
-### Trivially create your own Homebrew packages.###
+### Trivially create your own Homebrew packages. ###
 
 
 ```
@@ -45,7 +45,7 @@ Created /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/bar.rb
 
 ```
 
-### It's all Git and Ruby underneath, so hack away with the knowledge that you can easily revert your modifications and merge upstream updates. ###
+###  It's all Git and Ruby underneath, so hack away with the knowledge that you can easily revert your modifications and merge upstream updates.  ###
 
 
 ```
