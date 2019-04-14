@@ -1,6 +1,6 @@
 # Homebrew Start #
 
-## *macOS* ##
+## macOS ##
 
 ### copy and paste into terminal. ###
 
