@@ -4,7 +4,7 @@
 ![1_o9tdfKQE0zPBrPTFaVzuJg](https://user-images.githubusercontent.com/31435126/56092570-b8fd0200-5ef8-11e9-839a-5363663e6e9d.jpeg)
 
 
-<h2> macOS </h2>
+<h2> * macOS </h2>
 
 <h3> copy and paste into terminal. </h3>
 
